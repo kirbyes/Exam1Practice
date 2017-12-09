@@ -218,4 +218,3 @@ def problem2b(rect, n, delta, win):
 # Calls  main  to start the ball rolling.
 # ----------------------------------------------------------------------
 main()
-
